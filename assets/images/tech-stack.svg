@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-hidden="true">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a2f57"/>
+      <stop offset="50%" stop-color="#121f3d"/>
+      <stop offset="100%" stop-color="#08214f"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#33e7d0" stop-opacity="0.42"/>
+      <stop offset="100%" stop-color="#8c6dff" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g)"/>
+  <rect x="26" y="26" width="1148" height="748" rx="34" fill="none" stroke="rgba(176,203,255,0.22)"/>
+  <circle cx="620" cy="250" r="150" fill="url(#glow)"/>
+  <rect x="80" y="120" width="380" height="240" rx="24" fill="rgba(255,255,255,0.05)" stroke="rgba(176,203,255,0.2)"/>
+  <rect x="520" y="110" width="580" height="260" rx="24" fill="rgba(255,255,255,0.03)" stroke="rgba(176,203,255,0.22)"/>
+  <rect x="90" y="390" width="1040" height="180" rx="24" fill="rgba(255,255,255,0.05)" stroke="rgba(176,203,255,0.2)"/>
+  <circle cx="960" cy="620" r="120" fill="rgba(143,111,255,0.24)"/>
+  <rect x="150" y="640" width="280" height="80" rx="16" fill="rgba(255,255,255,0.06)"/>
+  <rect x="460" y="640" width="300" height="80" rx="16" fill="rgba(255,255,255,0.05)"/>
+  <rect x="790" y="640" width="270" height="80" rx="16" fill="rgba(255,255,255,0.07)"/>
+</svg>
