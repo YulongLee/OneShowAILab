@@ -38,7 +38,7 @@ const translations = {
       heroDesc: "OneShowAILab 先从理念开始：公开思考、持续建设、克制表达，在产品真正成熟之前，先把为什么做和如何做讲清楚。",
       heroLinkLabel: "现在",
       heroLinkText: "工作室理念 ->",
-      founderNoteTitle: "OneShowAILab 独立创始人 Yulong Lee",
+      founderNoteTitle: "OneShowAILab 创始人 Yulong Lee",
       founderNoteDesc: "一个人也可以拥有清晰判断、稳定节奏和长期公开建设的能力。",
       statementLead: "OneShowAILab 先是一套独立开发者的长期理念。",
       statementMuted: "在产品真正成熟之前，我更想公开表达：为什么做、如何做、相信什么，以及未来希望解决什么问题。",
