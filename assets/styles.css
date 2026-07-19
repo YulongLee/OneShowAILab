@@ -85,11 +85,13 @@ a {
 }
 
 .brand-dot {
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  background: #f4f4f5;
+  width: 28px;
+  height: 28px;
+  border-radius: 8px;
+  background: #f8fafc url("images/oneshowailab-logo-mark.png") center / 82% auto no-repeat;
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.16);
   display: inline-block;
+  flex: 0 0 auto;
 }
 
 .nav-row {
